@@ -13,7 +13,6 @@ var li=document.createElement("li");
  		var btn = document.createElement("button");
      	btn.appendChild(document.createTextNode("Delete!"));
  		li.appendChild(btn);
-    
  		btn.onclick = removeParent;
 }
  function addListAfterClick(){
