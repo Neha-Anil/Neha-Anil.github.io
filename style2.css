@@ -1,0 +1,38 @@
+h1{
+  font-family: fantasy;
+  color: #361900;
+  font-style: italic;
+  font-size: 50px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+#userinput{
+  margin-left: 20px;
+}
+li{
+  margin:5px;
+  color:#160F00;
+  font-style: bold;
+  font-size: 30px;
+}
+.done {
+  text-decoration: line-through;
+}
+p{
+  font-family:cursive;
+  font-size: 30px;
+  color:#C39E7E;
+  font-style: bold;
+  margin-left: 20px;
+}
+body
+{
+  background-image: url("computer-2242266_1920.jpg");
+  background-size:cover;
+ 
+}
+
+#enter{
+  background-color: green;
+}
